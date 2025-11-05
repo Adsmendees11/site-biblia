@@ -12,11 +12,7 @@ Um mini jogo interativo de perguntas e respostas sobre a Bíblia, desenvolvido c
 - 📱 **Design responsivo** e otimizado para celulares
 - 🧮 Exibe o total de acertos ao final do quiz
 - 🙌 Mensagem de agradecimento personalizada pelo desempenho
-
-## 🖼️ Captura de Tela
-
-> *(Adicione aqui uma imagem ou GIF do jogo rodando, se desejar)*
-
+- 
 ## 🚀 Acesse Aqui:
-
+https://adsmendees11.github.io/site-biblia/
 
